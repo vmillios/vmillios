@@ -1,5 +1,13 @@
 ## Hi there, I'm Vasileios 👋 
 
+### a little about me 
+
+- I work at Olympia electronics
+- I am a college student at Ionian University (Department of informatics)
+- I want to start learning about CI/CD and automation using docker 
+- I am a fast learner
+- I have deployed my own home lab with multiple services that assist me with automation
+
 
 ### Skills 💻
 
